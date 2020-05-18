@@ -1,3 +1,11 @@
 * Dont need text preprocessing for google encoder
 * Google sentence encoder:
   https://tfhub.dev/google/universal-sentence-encoder-large/5
+* Regarding Embedding Layer which can also be used instead of google encoder:
+  https://www.tensorflow.org/tutorials/text/word_embeddings
+  https://www.tensorflow.org/api_docs/python/tf/keras/layers/Embedding
+* Regarding SpatialDropout1D ------------------> Removes the covariance between two elements:
+  https://www.tensorflow.org/api_docs/python/tf/keras/layers/SpatialDropout1D
+* LSTM is a type of RNN. RNNs are also used in time series analysis.
+  https://www.tensorflow.org/guide/keras/rnn
+  
