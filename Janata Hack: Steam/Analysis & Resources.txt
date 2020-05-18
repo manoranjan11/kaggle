@@ -33,6 +33,14 @@ https://towardsdatascience.com/everything-you-need-to-know-about-neural-networks
   https://machinelearningmastery.com/evaluate-skill-deep-learning-models/
 * LSTM: 
   https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM
+* GRU:
+  https://www.tensorflow.org/api_docs/python/tf/keras/layers/GRU
 * regularizers:
   https://keras.io/api/layers/regularizers/ --------------------> penalising overfitting
   https://medium.com/@robertjohn_15390/regularization-in-tensorflow-using-keras-api-48aba746ae21
+* Dense:
+  https://www.tensorflow.org/api_docs/python/tf/keras/layers/Dense
+* Layers:
+  https://www.tensorflow.org/api_docs/python/tf/keras/layers
+* about ADAM optimizer:
+  https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
