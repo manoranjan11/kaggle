@@ -1,0 +1,3 @@
+* Dont need text preprocessing for google encoder
+* Google sentence encoder:
+  https://tfhub.dev/google/universal-sentence-encoder-large/5
